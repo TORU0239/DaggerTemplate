@@ -1,7 +1,5 @@
 package io.toru.test.app;
 
-import javax.inject.Named;
-
 import dagger.Module;
 import dagger.Provides;
 
